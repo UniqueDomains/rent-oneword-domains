@@ -1,22 +1,22 @@
-# Available .RENT One-Word Domains (5,621,958)
+# Available .RENT One-Word Domains (9,153)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C153%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C958%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C154%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C153%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .rent one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .rent one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,153-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,958 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,153 rows · **Live catalog:** 5,621,958 domains
+**Public extract:** 9,154 rows · **Live catalog:** 9,153 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/rent`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .RENT one-word domain 
 
 ### Files
 
-- `rent.csv` — public CSV extract (9,153 rows)
-- `rent.json` — public JSON extract (9,153 rows)
+- `rent.csv` — public CSV extract (9,154 rows)
+- `rent.json` — public JSON extract (9,154 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,19 +70,19 @@ print(df.head())
 | athletics.rent  | available | $81.98    | —             | 69             | 52     | 9      | namecheap     |
 | tour.rent       | resell    | $81.98    | —             | 72             | 35     | 4      | Go Daddy, LLC |
 | power.rent      | premium   | $1,300    | $1,300        | 98             | 62     | 5      | namecheap     |
-| wizard.rent     | available | $29.99    | $94.99        | 118            | 46     | 6      | name.com      |
+| wizard.rent     | available | $29.99    | $94.99        | 118            | 43     | 6      | name.com      |
 | force.rent      | resell    | $81.98    | —             | 72             | 26     | 5      | Go Daddy, LLC |
 | seventeen.rent  | premium   | $1,250    | $1,250        | 84             | 62     | 9      | name.com      |
 | strategy.rent   | available | $81.98    | —             | 74             | 43     | 8      | namecheap     |
 | universal.rent  | resell    | —         | —             | 96             | 81     | 9      | Go Daddy, LLC |
 | ace.rent        | premium   | $1,250    | $1,250        | 88             | 57     | 3      | name.com      |
-| agile.rent      | available | $29.99    | $94.99        | 92             | 42     | 5      | name.com      |
+| mark.rent       | available | $29.99    | $94.99        | 66             | 42     | 4      | name.com      |
 | disney.rent     | resell    | —         | —             | 82             | 76     | 6      | Go Daddy, LLC |
 | business.rent   | premium   | $650      | $650          | 100            | 53     | 8      | namecheap     |
-| mark.rent       | available | $29.99    | $94.99        | 66             | 42     | 4      | name.com      |
+| agile.rent      | available | $29.99    | $94.99        | 92             | 41     | 5      | name.com      |
 | adam.rent       | resell    | —         | —             | 66             | 70     | 4      | Porkbun, LLC  |
-| one.rent        | premium   | $3,125    | $3,125        | 132            | 51     | 3      | name.com      |
-| research.rent   | available | $81.98    | —             | 92             | 41     | 8      | namecheap     |
+| one.rent        | premium   | $3,125    | $3,125        | 132            | 50     | 3      | name.com      |
+| craft.rent      | available | $29.99    | $94.99        | 70             | 41     | 5      | name.com      |
 | prompt.rent     | resell    | —         | —             | 114            | 68     | 6      | Go Daddy, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,153-row public sample | 5,621,958 live domains                           |
+| 9,154-row public sample | 9,153 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
