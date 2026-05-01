@@ -635,6 +635,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 369e1932-43c0-49e4-8d31-d4cdf8519ce6,GodtheHolyGhost.rent,available,81.98,,58,1,18,namecheap,,
 36aabbbe-f505-4c3e-bcbb-ff5cc9ff770a,joints.rent,available,17.99,59.99,48,8,6,namesilo,,
 36c0e755-90b0-4767-9837-3aa536f05849,IsleofWightCounty.rent,available,81.98,,52,2,20,namecheap,,
+36ca8939-7320-4722-8c7b-a0bb4c826659,alias.rent,premium,,,76,25,5,,,
 36cc049d-1188-48fc-97f0-b64847611ec4,investors.rent,available,29.99,,60,23,9,name.com,,
 36d472e1-a5ad-4d94-9870-18b48a3d0a80,tended.rent,available,17.99,59.99,50,7,6,namesilo,,
 36e2ce1d-9afd-4f70-9a6b-e2e80ec334c2,leavenotrace.rent,available,29.99,,68,4,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 557f13a5-c91c-4564-bd4a-6d8bfa5f7fac,replies.rent,available,29.99,,54,7,7,name.com,,
 559c96df-dc6f-4543-8441-727dd8a10d45,filefootage.rent,available,29.99,,74,1,12,name.com,,
 55ac3e12-e1d6-463b-b839-b29e90f67cde,smirks.rent,available,17.99,59.99,46,3,6,namesilo,,
-55c134e8-dc01-4d37-9733-69439cfeb929,undergoes.rent,available,29.99,,55,1,9,name.com,,
