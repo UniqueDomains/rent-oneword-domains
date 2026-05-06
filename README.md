@@ -1,10 +1,10 @@
-# Available .RENT One-Word Domains (12,095)
+# Available .RENT One-Word Domains (12,111)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C095%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C111%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rent one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,095 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,111 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,095 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,111 domains · **Median ask:** $107.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/rent`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| ladies.rent   | available | $29.99    | —             | 80             | 17     | 6      | name.com      |
+| barup.rent    | available | $29.99    | —             | 82             | 2      | 6      | name.com      |
+| gearup.rent   | available | $29.99    | —             | 80             | 16     | 7      | name.com      |
+| QandA.rent    | available | $81.98    | —             | 80             | 10     | 7      | namecheap     |
+| pierogi.rent  | available | $29.99    | —             | 82             | 7      | 7      | name.com      |
+| leaveon.rent  | available | $29.99    | —             | 80             | 1      | 8      | name.com      |
 | CocaCola.rent | available | $81.98    | —             | 92             | 82     | 9      | namecheap     |
 | theone.rent   | resell    | —         | —             | 74             | 32     | 7      | Go Daddy, LLC |
 | tickets.rent  | premium   | $625      | —             | 64             | 34     | 7      | name.com      |
@@ -77,13 +83,7 @@ print(df.head())
 | foto.rent     | resell    | —         | —             | 76             | 28     | 4      | Go Daddy, LLC |
 | dogs.rent     | premium   | $625      | —             | 76             | 28     | 4      | name.com      |
 | trends.rent   | available | $29.99    | —             | 60             | 32     | 6      | name.com      |
-| mount.rent    | resell    | —         | —             | 65             | 19     | 5      | Go Daddy, LLC |
-| gems.rent     | premium   | $625      | —             | 70             | 28     | 4      | name.com      |
-| maps.rent     | available | $29.99    | —             | 56             | 31     | 4      | name.com      |
-| buying.rent   | resell    | —         | —             | 74             | 18     | 6      | Go Daddy, LLC |
-| boats.rent    | premium   | $3,125    | —             | 52             | 24     | 5      | name.com      |
-| quotes.rent   | available | $29.99    | —             | 58             | 29     | 6      | name.com      |
-| surfers.rent  | resell    | —         | —             | 57             | 10     | 7      | Go Daddy, LLC |
+| mount.rent    | resell    | —         | —             | 65             | 18     | 5      | Go Daddy, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,095 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,111 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .rent domains, so the main question is whether the word works naturally with a rental-focused extension. Stronger names tend to be clear, commercial, and easy to understand at a glance, such as tips.rent or WiFi.rent. Others may be weaker because they are awkward, less ownable, or carry obvious trademark concerns, such as Chanel.rent or Trex.rent. When comparing these domains, focus on whether the word fits a real rental use case, whether the ask price is justified, and whether renewal costs and legal exposure could reduce long-term value.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that make immediate sense with .rent
+- Use the 107.33 median ask as a pricing reality check
+- Be cautious with clear trademark signals like Chanel
+- Favor memorable, plain-language words over obscure terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
