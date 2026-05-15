@@ -619,7 +619,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35627eda-1434-4bc7-b188-fe25902b3d45,surfers.rent,resell,,,57,10,7,"Go Daddy, LLC",24/06/2025 15:32,24/06/2026 23:59
 3566de3a-ea95-4ea1-a7a4-5dcdc3f77a8a,privateparts.rent,available,29.99,,61,3,13,name.com,,
 3567651d-7154-4ace-a260-16f8d193d09e,prisms.rent,available,17.99,59.99,56,7,6,namesilo,,
-3599d59c-7324-47d7-a012-c2f10f8074b3,markets.rent,resell,,,62,29,7,"Go Daddy, LLC",06/02/2026 16:59,06/02/2027 23:59
+3599d59c-7324-47d7-a012-c2f10f8074b3,markets.rent,resell,,,62,25,7,"Go Daddy, LLC",06/02/2026 16:59,06/02/2027 23:59
 35cdd372-f3d1-43bd-b429-8a7ea43dfded,makers.rent,available,17.99,59.99,62,67,6,namesilo,,
 35d1fccf-adfb-444e-926f-af55582b1c4a,ladies.rent,available,29.99,,80,17,6,name.com,,
 35f35b9c-1818-48d6-a248-9ae711ec10ab,thenandthere.rent,available,29.99,,54,2,14,name.com,,

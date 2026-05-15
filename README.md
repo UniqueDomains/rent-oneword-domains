@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rent one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,126 domains · **Median ask:** $107.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/rent`  
 **Best for:** founders, investors, studios
 
@@ -77,10 +77,10 @@ print(df.head())
 | trend.rent    | resell    | —         | —             | 76             | 31     | 5      | Go Daddy, LLC |
 | William.rent  | premium   | $700      | $700          | 74             | 31     | 7      | namecheap     |
 | RedSox.rent   | available | $81.98    | —             | 72             | 60     | 7      | namecheap     |
-| markets.rent  | resell    | —         | —             | 62             | 29     | 7      | Go Daddy, LLC |
+| foto.rent     | resell    | —         | —             | 76             | 28     | 4      | Go Daddy, LLC |
 | cams.rent     | premium   | $625      | —             | 52             | 29     | 4      | name.com      |
 | regions.rent  | available | $29.99    | —             | 64             | 59     | 7      | name.com      |
-| foto.rent     | resell    | —         | —             | 76             | 28     | 4      | Go Daddy, LLC |
+| markets.rent  | resell    | —         | —             | 62             | 25     | 7      | Go Daddy, LLC |
 | dogs.rent     | premium   | $625      | —             | 76             | 28     | 4      | name.com      |
 | trends.rent   | available | $29.99    | —             | 60             | 32     | 6      | name.com      |
 | mount.rent    | resell    | —         | —             | 65             | 18     | 5      | Go Daddy, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
