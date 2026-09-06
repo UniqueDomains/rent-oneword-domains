@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rent one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,185 domains · **Median ask:** $57.64 · **High-demand under $2,500:** 40
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/rent`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| period.rent | available | $17.99    | $59.99        | high           | low    | 6      | namesilo                                     |
+| off.rent    | available | $17.99    | $59.99        | high           | low    | 3      | namesilo                                     |
+| smooth.rent | available | $29.99    | —             | high           | low    | 6      | name.com                                     |
 | ain.rent    | available | $5        | $81.98        | low            | low    | 3      | namecheap                                    |
 | god.rent    | resell    | $29.99    | —             | high           | medium | 3      | Go Daddy, LLC                                |
 | car.rent    | premium   | $65,000   | $65,000       | high           | medium | 3      | namecheap                                    |
@@ -81,9 +84,6 @@ print(df.head())
 | bags.rent   | premium   | $625      | —             | medium         | low    | 4      | name.com                                     |
 | icu.rent    | available | $17.99    | $59.99        | high           | low    | 3      | namesilo                                     |
 | yard.rent   | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC                                |
-| golf.rent   | premium   | $625      | —             | high           | medium | 4      | name.com                                     |
-| jar.rent    | available | $17.99    | $59.99        | high           | low    | 3      | namesilo                                     |
-| block.rent  | resell    | —         | —             | medium         | low    | 5      | DNC Holdings INC                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
