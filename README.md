@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rent one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,773 domains · **Median ask:** $42.07 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/rent`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| period.rent | available | $17.99    | $59.99        | high           | low    | 6      | namesilo         |
-| bang.rent   | available | $17.99    | $59.99        | high           | low    | 4      | namesilo         |
-| smooth.rent | available | $29.99    | —             | high           | low    | 6      | name.com         |
 | ain.rent    | available | $5        | $81.98        | low            | low    | 3      | namecheap        |
 | god.rent    | resell    | $29.99    | —             | high           | medium | 3      | Go Daddy, LLC    |
 | car.rent    | premium   | $65,000   | $65,000       | high           | medium | 3      | namecheap        |
@@ -84,6 +81,9 @@ print(df.head())
 | bags.rent   | premium   | $625      | —             | medium         | low    | 4      | name.com         |
 | icu.rent    | available | $17.99    | $59.99        | high           | low    | 3      | namesilo         |
 | ready.rent  | resell    | —         | —             | high           | low    | 5      | DNC Holdings INC |
+| golf.rent   | premium   | $625      | —             | high           | medium | 4      | name.com         |
+| jar.rent    | available | $17.99    | $59.99        | high           | low    | 3      | namesilo         |
+| disney.rent | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RENT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
