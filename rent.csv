@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 dc941062-3673-43bd-8d83-ee7c5c388e76,complained.rent,available,1.18,51.95,low,low,10,spaceship,,,28/09/2026 17:47
 1b306e33-7352-4c24-92d6-b47994a70dae,lester.rent,available,10.5,53.72,high,low,6,dynadot,,,28/09/2026 05:11
+f85131ac-988e-44d1-921f-32d96331f244,lured.rent,available,1.5,81.98,medium,low,5,namecheap,,,01/10/2026 18:14
 55fa3429-e403-41f1-938e-a487fdcc0dfe,fiesta.rent,available,1.18,51.95,high,low,6,spaceship,,,01/10/2026 02:03
 50b74bc6-346c-457b-9974-64b0e65a086f,zionist.rent,available,1.5,81.98,high,low,7,namecheap,,,13/09/2026 15:21
 af2cf19c-4ed0-4b3d-8947-980820a1c25d,madrid.rent,premium,1107,1107,high,low,6,namesilo,,,29/09/2026 06:59
@@ -25,9 +26,11 @@ b3244703-21c1-4afb-b485-c0940d8e0bca,parrot.rent,available,17.99,59.99,high,low,
 2df57718-2976-41a9-a2c9-fcc6901d0aa5,ancient.rent,available,17.99,59.99,high,low,7,namesilo,,,22/09/2026 04:21
 bee2fcb5-ff0b-4a85-a026-c02c06a7625d,unkind.rent,available,1.5,81.98,medium,low,6,namecheap,,,12/09/2026 14:11
 5a155273-a68c-488b-b41e-8be51b819444,looks.rent,available,17.99,59.99,high,low,5,namesilo,,,
+3960f62d-5488-40e3-99ed-e9e5519812c8,pulses.rent,available,45.2,45.2,medium,low,6,cloudflare,,,01/10/2026 17:55
 8220610d-3da5-4763-b7e5-0f4e328ee6df,met.rent,available,1.18,51.95,high,low,3,spaceship,,,27/09/2026 17:23
 7ad5ff9b-5848-4a1e-9427-2341e7f05588,sewing.rent,available,1.18,51.95,high,low,6,spaceship,,,28/09/2026 10:54
 8a0922d3-1cc4-4f01-be85-ae508d033174,gallipoli.rent,available,17.99,59.99,medium,low,9,namesilo,,,29/09/2026 22:32
+78f9b2b7-72f3-42d3-8bf7-6bacc50de390,dps.rent,available,17.99,59.99,high,low,3,namesilo,,,01/10/2026 07:57
 d822018c-b3c2-4fa0-9957-5435141cc568,nattily.rent,available,1.5,81.98,medium,low,7,namecheap,,,15/09/2026 16:12
 bfa1dfcd-2b8a-4054-a86a-18f2bf0b6ff5,effects.rent,available,17.99,59.99,high,low,7,namesilo,,,27/09/2026 03:49
 80a50474-3977-4a5d-aae3-3db7d1c556b7,changes.rent,available,17.99,59.99,medium,low,7,namesilo,,,
@@ -71,6 +74,7 @@ e0c5e68f-cef1-407b-9378-705aa0111167,predatory.rent,available,5,81.98,medium,low
 17f9b3b3-f0c3-41a4-b598-6ca72cbd33ce,orchis.rent,available,17.99,59.99,medium,low,6,namesilo,,,21/09/2026 23:07
 10f6cde9-7a60-4418-851e-4f132c0d36b3,strabo.rent,available,1.18,51.95,medium,low,6,spaceship,,,29/09/2026 15:36
 59fd7700-728e-46fa-ba37-247694c6088f,brett.rent,available,1.18,51.95,high,low,5,spaceship,,,28/09/2026 07:03
+d1bf56e1-0580-47b4-896d-b160e56d6686,embarked.rent,available,45.2,45.2,medium,low,8,cloudflare,,,02/10/2026 02:37
 5287ce30-30b7-43fc-b7f6-02d74450b6e5,montgomery.rent,premium,1300,1300,high,low,10,namecheap,,,16/09/2026 12:22
 1c074635-87de-433a-90f7-593166cffb64,keenness.rent,available,17.99,59.99,high,low,8,namesilo,,,21/09/2026 09:30
 f6884f08-732c-4891-a170-f4a6e2783ce6,job.rent,resell,,,high,medium,3,"Spaceship, Inc.",15/03/2026 20:04,15/03/2027 23:59,29/09/2026 03:34
@@ -82,10 +86,13 @@ aa594d2d-b4c9-47ac-bcb8-bebec5f01bb3,specification.rent,available,17.99,59.99,hi
 b1c12817-523b-4a15-9e5e-bd99c5e5d43e,swarthmore.rent,available,17.99,59.99,medium,low,10,namesilo,,,30/09/2026 04:33
 699c7d3b-7a96-48a4-aa4a-ab5520daeec8,arbovirus.rent,available,17.99,59.99,medium,low,9,namesilo,,,20/09/2026 00:52
 cbb025c3-7351-4dbb-80df-5d4fcd275bed,treeless.rent,available,1.5,81.98,medium,low,8,namecheap,,,11/09/2026 19:10
+5e20b0e6-7e7c-4c8b-8ef2-9ffb24aeb42a,testimonial.rent,available,17.99,59.99,high,low,11,namesilo,,,01/10/2026 22:39
+67119078-9c71-4e2b-8a17-d9035874c534,longwood.rent,available,17.99,59.99,medium,low,8,namesilo,,,02/10/2026 01:09
+52b0a503-ebdb-4800-912f-98c4699fae28,eloise.rent,available,45.2,45.2,high,low,6,cloudflare,,,01/10/2026 08:50
 74aa3f93-0d67-4f1c-8469-9078af608c23,resolute.rent,available,1.18,51.95,high,low,8,spaceship,,,27/09/2026 12:14
 5aa167e0-4aa4-4bff-bfe2-bce5a633cc5d,grimsby.rent,available,10.3,52.01,medium,low,7,porkbun,,,30/09/2026 04:49
 ca95a8b4-4bea-4131-b46a-c139a5742fbc,shivaree.rent,available,1.5,81.98,medium,low,8,namecheap,,,23/09/2026 06:07
-d3a04249-9944-44b6-bc01-9116e8a7162b,marketing.rent,premium,640,640,high,medium,9,namesilo,,,28/09/2026 06:40
+d3a04249-9944-44b6-bc01-9116e8a7162b,marketing.rent,premium,640,640,high,medium,9,namesilo,,,01/10/2026 17:41
 8f30fa6a-be40-4c17-acaa-0a393adf8583,batfish.rent,available,17.99,59.99,medium,low,7,namesilo,,,22/09/2026 13:14
 4bbc6f4a-b82d-4727-b5b5-9980283d8f97,poulet.rent,available,5,81.98,medium,low,6,namecheap,,,12/08/2026 04:55
 0ea6cc55-2033-4fef-9ecf-05d686ee3993,pituitary.rent,available,1.5,81.98,high,medium,9,namecheap,,,08/09/2026 20:08
@@ -109,11 +116,14 @@ c9937ee9-9959-402d-a316-a10c538c9f22,ectopic.rent,available,5,81.98,medium,low,7
 62b418c5-cc0e-40b5-8742-9039461744ab,formic.rent,available,5,81.98,medium,low,6,namecheap,,,18/08/2026 12:11
 67948b41-1846-4ef1-bcdc-2edf9df93704,tillers.rent,available,17.99,59.99,medium,low,7,namesilo,,,20/09/2026 14:06
 6e22ab87-8cb3-4f16-beee-f136d9b5bfa2,adonic.rent,available,5,81.98,medium,low,6,namecheap,,,
+1b230559-b1f8-4e7f-bb87-98bb26867ce9,wizards.rent,available,17.99,59.99,high,low,7,namesilo,,,02/10/2026 03:40
 f08e5f1e-43da-4b29-aa98-442710e88aed,passively.rent,available,1.5,81.98,medium,low,9,namecheap,,,15/09/2026 19:09
 f22664af-7cb2-47d6-93b6-576e60102ad4,mary.rent,premium,640,640,high,low,4,namesilo,,,24/09/2026 06:05
 11052bba-e808-4f40-8537-3c255930e0b4,hard.rent,available,5,81.98,high,low,4,namecheap,,,06/08/2026 16:55
 ed8d41c5-f7bd-4b73-8326-173a6149ea1d,silvervine.rent,available,17.99,59.99,medium,low,10,namesilo,,,17/09/2026 04:49
 8025a588-0470-4ac9-8be0-decffb8f8851,akhbari.rent,available,17.99,59.99,medium,low,7,namesilo,,,17/09/2026 23:56
+29afa0c1-c3c3-440d-ae40-f85ea30cf867,labyrinth.rent,available,45.2,45.2,high,low,9,cloudflare,,,01/10/2026 20:02
+aef474e9-41ac-4f90-b6b7-59762a79e4ac,boasting.rent,available,1.18,51.95,medium,low,8,spaceship,,,02/10/2026 04:07
 af4537a3-c950-4fdd-9cb4-5a90e224eb61,outback.rent,available,17.99,59.99,high,low,7,namesilo,,,26/09/2026 03:21
 fd36bb6c-4136-48dc-8925-8153a56e75c5,endorse.rent,available,1.5,81.98,high,low,7,namecheap,,,08/09/2026 09:45
 9dafd899-6124-4355-b12b-c3ac4f7c0b80,lerner.rent,available,1.5,81.98,high,low,6,namecheap,,,18/09/2026 01:44
@@ -136,6 +146,7 @@ b2d4b0a3-b999-497f-b627-70dd553870a4,agitation.rent,available,1.5,81.98,medium,l
 15fe7d2c-5966-40db-b0f7-ddeee213aa68,gelatinous.rent,available,5,81.98,medium,low,10,namecheap,,,18/08/2026 21:01
 1045ee65-71cd-416f-8029-1f68affc19d6,enzymatic.rent,available,5,81.98,medium,low,9,namecheap,,,17/08/2026 10:08
 87b93043-6ebc-4fe1-a0ad-737f8c326bc3,genoa.rent,available,17.99,59.99,high,low,5,namesilo,,,30/09/2026 09:54
+58134d65-6b34-434c-99bb-4b97209d974e,libertad.rent,available,17.99,59.99,high,low,8,namesilo,,,01/10/2026 23:36
 258faf19-9971-4a24-91e2-ff05d0b31876,await.rent,available,45.2,45.2,high,low,5,cloudflare,,,30/09/2026 15:31
 b19de805-69e3-4658-975f-34cbba15eccb,apertures.rent,available,17.99,59.99,medium,low,9,namesilo,,,30/09/2026 07:45
 6f95c6f7-779e-4c74-90c6-1c200bd1c755,scoop.rent,available,1.5,81.98,high,low,5,namecheap,,,19/09/2026 16:31
@@ -164,9 +175,10 @@ b306aee7-a8b2-4713-a40e-5743d91b1020,haig.rent,available,17.99,59.99,medium,low,
 0d9ede23-8f76-45b2-b006-30979f0c9864,kodiak.rent,available,1.5,81.98,high,low,6,namecheap,,,18/09/2026 02:05
 d7550019-abf7-4ee1-9f88-2c1eeaf63969,guilty.rent,available,5,81.98,high,low,6,namecheap,,,20/08/2026 20:50
 4eacb1af-4029-456f-8f0e-8ed270568d8b,recruiting.rent,available,1.18,51.95,high,low,10,spaceship,,,28/09/2026 21:30
-26b53583-ad65-4658-a019-22da6d725f10,informative.rent,available,29.99,,high,low,11,name.com,,,
+26b53583-ad65-4658-a019-22da6d725f10,informative.rent,available,45.2,45.2,high,low,11,cloudflare,,,01/10/2026 21:44
 54fe1538-b867-4258-bba0-40cf53ae355c,annona.rent,available,1.5,81.98,medium,low,6,namecheap,,,19/09/2026 10:30
 295ff16e-564e-486f-bf21-3c82096d3082,sigmoidal.rent,available,1.5,81.98,high,medium,9,namecheap,,,10/09/2026 07:59
+c85425dc-6fd7-4c30-afcb-7dab3ce89747,draught.rent,available,17.99,59.99,high,low,7,namesilo,,,02/10/2026 04:06
 8c804da8-9e8b-41c9-ac54-35c9062f396f,elytra.rent,available,17.99,59.99,medium,low,6,namesilo,,,29/09/2026 23:37
 91988556-7d99-4fe3-a097-929ba67fe007,confronted.rent,available,1.5,81.98,low,low,10,namecheap,,,28/09/2026 23:23
 35868538-74d5-464b-98e0-1742093cb59d,ashtoreth.rent,available,17.99,59.99,medium,low,9,namesilo,,,20/09/2026 14:02
@@ -184,7 +196,7 @@ ddc9a63c-36c7-4029-84a4-fa694d0b9833,inhabited.rent,available,5,81.98,high,low,9
 a3747841-a4df-4fba-9ee0-103877f21cab,rhineland.rent,available,1.18,51.95,medium,low,9,spaceship,,,29/09/2026 13:52
 3536de65-5e21-4f46-b1fc-47d5aa6f1b64,ormond.rent,available,1.18,51.95,medium,low,6,spaceship,,,29/09/2026 15:48
 a084d835-3431-40a6-ab79-46815949470e,fever.rent,available,10.3,52.01,high,low,5,porkbun,,,29/09/2026 19:05
-b3e0de2f-991b-44f1-9a1c-586942cfa74c,counter.rent,available,1.5,81.98,high,low,7,namecheap,,,29/09/2026 05:50
+b3e0de2f-991b-44f1-9a1c-586942cfa74c,counter.rent,available,1.18,51.95,high,low,7,spaceship,,,01/10/2026 17:51
 3db70d7f-4113-4800-a92a-0a870c22970f,tilefish.rent,available,17.99,59.99,medium,low,8,namesilo,,,24/09/2026 04:04
 32fd136b-fcb8-45c8-925e-0da176a4104e,hydrolysis.rent,available,17.99,59.99,medium,low,10,namesilo,,,01/10/2026 02:39
 f12a2947-7d53-4ca0-964d-8a2af6e8595a,bayes.rent,available,1.5,81.98,high,low,5,namecheap,,,22/09/2026 18:03
@@ -205,7 +217,6 @@ d8542c06-29bf-4c6c-877c-7e3089ce4ca0,toes.rent,available,17.99,59.99,medium,low,
 7f34caeb-7659-49ed-9a24-c8bf4e036904,cobalt.rent,available,17.99,59.99,high,low,6,namesilo,,,20/09/2026 22:41
 16925ffa-493c-47ca-aec4-4a4f819b400d,unseeded.rent,available,1.5,81.98,medium,low,8,namecheap,,,12/09/2026 19:10
 f3b9d19a-ebf3-43d4-ab5a-3310284d1eb8,bombproof.rent,available,5,81.98,medium,low,9,namecheap,,,10/08/2026 18:09
-51e5e896-4183-4e1b-905e-ace921a11540,secured.rent,available,29.99,,high,low,7,name.com,,,
 7a0a2880-d9c4-4fb2-9a3c-384c2cd59ca6,biochemist.rent,available,17.99,59.99,high,low,10,namesilo,,,23/09/2026 17:44
 04eb5038-fb3b-46d7-92e3-90aa1e9f7ca3,asserted.rent,available,5,81.98,medium,low,8,namecheap,,,07/08/2026 05:54
 e5243b8f-5c2d-470f-aac6-6d6ef5f36d7c,chuck.rent,available,1.5,81.98,high,low,5,namecheap,,,08/09/2026 10:16
@@ -220,6 +231,7 @@ afe284a2-d820-49fd-9e3a-a7535806b7b1,belly.rent,available,17.99,59.99,high,low,5
 3e5eec9e-efd7-4d66-84d4-9f42e98459af,moduli.rent,available,1.18,51.95,medium,low,6,spaceship,,,01/10/2026 00:19
 53047c6f-f09e-4d21-a7b1-20e31465c51d,cretaceous.rent,available,5,81.98,medium,low,10,namecheap,,,13/08/2026 06:22
 21c59d06-1152-42a0-b09b-5abc35f84240,wobbling.rent,available,1.5,81.98,medium,low,8,namecheap,,,13/09/2026 12:52
+be94ea4a-9f40-4bdd-a6ac-3e7abfe35fde,slovaks.rent,available,10.3,52.01,medium,low,7,porkbun,,,02/10/2026 03:51
 674f9cf3-c6b6-4ec8-9c9a-6ef5d5019c72,stargazer.rent,available,1.5,81.98,high,low,9,namecheap,,,20/09/2026 18:07
 42da07b4-93dd-46d7-a04d-106e74145f29,exposure.rent,available,1.5,81.98,high,low,8,namecheap,,,08/09/2026 13:44
 fc8ab2cd-fad9-48fa-819a-4b79b177f976,cardiff.rent,available,29.99,94.99,high,low,7,name.com,,,28/09/2026 01:26
@@ -247,12 +259,13 @@ bdcee778-b55d-40a7-bf44-cbd783417382,dwelling.rent,premium,640,640,high,low,8,na
 3a905fdf-3981-4563-af9c-b4a1a9e9ea73,garcia.rent,premium,650,650,high,low,6,namecheap,,,25/09/2026 20:50
 9c489304-319a-4bc5-aef2-a4b34dfe387f,sentiment.rent,available,1.5,81.98,high,low,9,namecheap,,,28/09/2026 15:00
 3e9eb09e-9c8e-44f1-be5b-7c29d4c2792b,birds.rent,available,17.99,59.99,high,low,5,namesilo,,,
-a6e8233f-2718-46dc-960b-051fe1cde6a2,schooling.rent,available,17.99,59.99,high,low,9,namesilo,,,28/09/2026 02:34
+a6e8233f-2718-46dc-960b-051fe1cde6a2,schooling.rent,available,1.18,51.95,high,low,9,spaceship,,,01/10/2026 11:01
 997f580b-2011-441c-8e9a-4ee4ce865ecc,expire.rent,available,10.5,53.72,high,low,6,dynadot,,,29/09/2026 12:11
 40c52ae0-b744-422b-b195-1c5b5a7ac088,ending.rent,available,17.99,59.99,high,low,6,namesilo,,,25/09/2026 05:36
 3e982b8c-fcaa-4d37-b22b-cea9bcd29e4c,icy.rent,available,5,81.98,medium,low,3,namecheap,,,18/08/2026 16:29
 72ae4bc3-f82b-481f-8799-2adcef2bcdf6,sutherland.rent,available,17.99,59.99,medium,low,10,namesilo,,,25/09/2026 04:37
 437d1505-0fc9-4821-8e3d-e896ecb68a74,lay.rent,available,17.99,59.99,high,low,3,namesilo,,,25/09/2026 13:03
+c19431b7-ba0b-4cba-8241-a63776d7100f,grt.rent,available,17.99,59.99,high,low,3,namesilo,,,01/10/2026 23:41
 64d08597-0e3c-4d9f-868f-31b35bffb6c8,latter.rent,available,17.99,59.99,high,low,6,namesilo,,,25/09/2026 13:08
 120f98dd-13ae-4de1-8d80-b14dc7cfa423,tapes.rent,available,17.99,59.99,medium,low,5,namesilo,,,25/09/2026 21:42
 fd3ec42c-7402-476e-bf4d-88f1713fb79c,hardy.rent,available,17.99,59.99,high,low,5,namesilo,,,22/09/2026 12:21
@@ -297,11 +310,14 @@ fc72d937-e2e4-4051-9ecf-18d3ba4034dd,anthropic.rent,available,,,high,high,9,,,,
 3135bc9c-6a5c-4139-9f1c-a27033cf6d20,anuria.rent,available,17.99,59.99,medium,low,6,namesilo,,,19/09/2026 15:55
 8f9bc9ff-d74e-48cd-be1c-e1c25d3e8cab,wipe.rent,available,17.99,59.99,high,low,4,namesilo,,,27/09/2026 16:23
 90e222c9-0495-43ba-a366-4cbf3340474e,transmitter.rent,available,17.99,59.99,high,low,11,namesilo,,,28/09/2026 15:46
+09eba510-903c-42ee-9971-8dff3c8826e3,chloroform.rent,available,17.99,59.99,high,low,10,namesilo,,,02/10/2026 04:21
 b2b7e449-4859-4395-8032-2864fba327ab,denny.rent,available,17.99,59.99,high,low,5,namesilo,,,25/09/2026 15:22
 c9aa2d41-98e4-4a01-97bc-8ef2b47d2c59,moronic.rent,available,5,81.98,medium,low,7,namecheap,,,25/08/2026 06:35
 3f7b451a-4a07-435f-8737-491f22dd4a22,jellyfish.rent,available,17.99,59.99,high,low,9,namesilo,,,01/10/2026 02:43
+8a97b10a-c6a3-40fc-9ffb-aebbcc965af6,bureaucracy.rent,available,1.18,51.95,high,low,11,spaceship,,,01/10/2026 13:02
 a594704b-e0c8-449a-9949-80c4e6bf1832,darcy.rent,available,1.18,51.95,high,low,5,spaceship,,,30/09/2026 00:47
 077ed654-2b48-458c-9db4-3e596c13ed12,blake.rent,available,17.99,59.99,high,low,5,namesilo,,,24/09/2026 03:45
+1f642027-3a14-44e5-afcf-c71040f2f05e,captives.rent,available,1.18,51.95,medium,low,8,spaceship,,,02/10/2026 02:54
 fd4aa17e-cfd7-42d9-ba0d-ced25f9931a1,larder.rent,available,5,81.98,high,low,6,namecheap,,,11/08/2026 11:56
 d3e482cf-28bd-4e96-94d9-aac8811e7968,extravagant.rent,available,10.3,52.01,high,low,11,porkbun,,,30/09/2026 03:34
 338373eb-f145-420e-a23d-4faef72d8475,chp.rent,available,1.5,81.98,medium,low,3,namecheap,,,01/10/2026 01:06
@@ -346,6 +362,7 @@ c5b27d1a-50b6-43c9-9c98-6156c71850a0,rosebush.rent,available,1.5,81.98,high,medi
 71e51b3e-309f-46a6-8670-ef2383305f17,blossom.rent,available,1.5,81.98,high,low,7,namecheap,,,24/09/2026 20:31
 d2419465-7c40-4677-9192-19ab587ab3f6,calico.rent,available,5,81.98,high,low,6,namecheap,,,11/08/2026 14:19
 9b3c0be4-1bd7-4faf-be3b-797c226ae028,unnamed.rent,available,1.5,81.98,medium,low,7,namecheap,,,03/09/2026 12:56
+3f9ed86b-20be-4b37-a10b-9121a3d35110,vojvodina.rent,available,1.5,81.98,medium,low,9,namecheap,,,01/10/2026 23:46
 d5a199cf-c53f-4912-a468-317590b1ab50,millenary.rent,available,5,81.98,medium,low,9,namecheap,,,24/08/2026 23:13
 6eccc0a8-4712-4a70-a546-77cf55ff9cf1,bites.rent,available,1.18,51.95,medium,low,5,spaceship,,,28/09/2026 13:24
 b33ade6b-438e-4606-9b78-85cb7c4ba949,donegal.rent,available,10.5,53.72,medium,low,7,dynadot,,,28/09/2026 21:57
@@ -370,7 +387,7 @@ de5f8f48-a848-4194-a302-0c431964927b,cacophonic.rent,available,5,81.98,low,low,1
 28d8dc36-331f-4a90-82ac-8441622c6fc6,soignee.rent,available,1.5,81.98,high,low,7,namecheap,,,10/09/2026 13:30
 17d998d8-69bd-49ff-8153-3cfe50329b00,luzon.rent,available,1.18,51.95,high,low,5,spaceship,,,27/09/2026 14:53
 e4913603-5954-4783-a63e-6b7448db2e8e,deletion.rent,available,1.5,81.98,medium,low,8,namecheap,,,24/09/2026 21:34
-c1e13ce7-8a05-48a7-b56b-dfba52cb03bb,passionately.rent,available,17.99,59.99,high,low,12,namesilo,,,
+c1e13ce7-8a05-48a7-b56b-dfba52cb03bb,passionately.rent,available,1.18,51.95,high,low,12,spaceship,,,01/10/2026 18:20
 0ed60527-acd0-406f-bbdd-7e92216422c3,plop.rent,available,1.5,81.98,medium,low,4,namecheap,,,15/09/2026 20:39
 4fb9bd92-a1fa-4795-9c09-eb86b195e286,recognizes.rent,available,1.18,51.95,medium,low,10,spaceship,,,29/09/2026 11:34
 2a74fb24-0bf3-4ddf-8bab-b8d85ab1c717,europeans.rent,available,17.99,59.99,medium,low,9,namesilo,,,30/09/2026 15:43
@@ -383,6 +400,7 @@ b2238adb-4faa-4f53-b019-f1434242bc0a,fitzpatrick.rent,available,1.5,81.98,medium
 8789b335-39c3-46db-b342-415708c00037,upward.rent,available,1.18,51.95,high,low,6,spaceship,,,28/09/2026 09:54
 76f67593-7242-46f1-b3d4-4589dbb8186d,buttercup.rent,available,17.99,59.99,high,low,9,namesilo,,,24/09/2026 11:18
 19fdae81-19e0-406b-a685-b557aa9a305f,peck.rent,available,5,81.98,high,low,4,namecheap,,,25/08/2026 00:37
+5a33475d-eeae-4c82-968b-0dc89dac9de0,karan.rent,available,17.99,59.99,medium,low,5,namesilo,,,02/10/2026 00:39
 de7adf00-ff54-461a-82d0-0911e8703131,faggot.rent,available,1.5,81.98,medium,low,6,namecheap,,,09/09/2026 08:02
 c2a12fe1-7130-4ad9-a462-6f1172f21c8c,shelton.rent,available,1.5,81.98,medium,low,7,namecheap,,,27/09/2026 01:50
 f2b34b35-4cba-4c1f-9d39-a70939e743a4,killed.rent,available,17.99,59.99,medium,low,6,namesilo,,,17/09/2026 12:17
@@ -392,6 +410,7 @@ f2b34b35-4cba-4c1f-9d39-a70939e743a4,killed.rent,available,17.99,59.99,medium,lo
 8782814f-e925-41e7-a811-0a6706768227,regretful.rent,available,1.5,81.98,high,medium,9,namecheap,,,09/09/2026 13:00
 5206174d-605d-4c02-963e-c01294f386ad,fairish.rent,available,5,81.98,medium,low,7,namecheap,,,17/08/2026 21:12
 88dedce8-9ed1-4134-8b3c-2d0fe34365cd,planner.rent,available,1.5,81.98,high,low,7,namecheap,,,24/09/2026 17:52
+6c02c308-ee78-4920-97ae-7f6a4feb5274,trinidad.rent,available,1.18,51.95,medium,low,8,spaceship,,,01/10/2026 22:00
 e718b075-6b80-4e47-80c4-8892ab629ba1,auc.rent,available,17.99,59.99,high,low,3,namesilo,,,21/09/2026 02:37
 5e2e91ea-16e9-469d-b372-1e514950d0d7,mouth.rent,available,1.18,51.95,high,low,5,spaceship,,,28/09/2026 08:01
 a188228e-af4a-4358-9e1d-cc78a5454ba2,mon.rent,available,45.2,45.2,high,low,3,cloudflare,,,30/09/2026 05:02
@@ -420,6 +439,8 @@ a7a591dd-271c-4a65-87fe-d22e5dda6cbb,bandwagon.rent,available,17.99,59.99,high,l
 f9e01b3c-be21-4387-a1c2-75e87700b32b,tombs.rent,available,17.99,59.99,medium,low,5,namesilo,,,30/09/2026 05:23
 eb91024f-f650-4cb2-8e3b-099c3982a2f4,ailment.rent,available,5,81.98,medium,low,7,namecheap,,,21/08/2026 18:47
 41cef467-9123-4da6-b8f8-08c9e0b39dad,unfading.rent,available,1.5,81.98,medium,low,8,namecheap,,,12/09/2026 09:53
+55640881-d4dd-4929-bc78-50bc26722f84,ecc.rent,premium,,,high,low,3,,,,01/10/2026 19:18
+cf503d7e-c3d7-4e97-aeed-dde65b2f2fb9,southwestern.rent,available,1.18,51.95,medium,low,12,spaceship,,,01/10/2026 16:25
 27eee7a8-539b-45c8-aa05-e26755463958,clearing.rent,available,17.99,59.99,high,low,8,namesilo,,,24/09/2026 15:28
 5607b779-ce70-48a3-875c-d5a87a764341,acosta.rent,available,10.3,52.01,high,low,6,porkbun,,,29/09/2026 22:34
 2f8185b7-b8ed-4dd4-976f-63a8e18b7245,bin.rent,premium,250,250,high,low,3,name.com,,,16/09/2026 13:43
@@ -435,6 +456,7 @@ e14a1ee6-5ae1-4dca-80b4-881ef78be231,over.rent,available,1.5,81.98,high,low,4,na
 170e1929-b710-457e-ab96-65bf1a77963c,behavior.rent,available,17.99,59.99,high,low,8,namesilo,,,23/09/2026 03:06
 635d65be-ef29-4dc4-9d5f-529282a6df0f,robot.rent,resell,,,high,medium,5,"Spaceship, Inc.",19/01/2025 08:23,19/01/2027 23:59,26/09/2026 08:43
 f436ec9b-c8fc-4b7b-aedb-7827f27598f0,burner.rent,available,1.18,51.95,high,low,6,spaceship,,,29/09/2026 11:49
+132e62b1-eb3e-4055-b6af-9e388ad91fae,punctuation.rent,available,17.99,59.99,high,low,11,namesilo,,,01/10/2026 13:00
 85f7b762-ae33-43aa-92a4-36b4690bf29f,supplied.rent,available,17.99,59.99,high,low,8,namesilo,,,
 49fbad8e-3e18-4859-9c2a-e0209301cdc3,demonic.rent,available,5,81.98,medium,low,7,namecheap,,,14/08/2026 01:26
 7ebd317f-d9dd-4e4e-937c-6270c86b63fc,partake.rent,available,1.5,81.98,high,low,7,namecheap,,,30/09/2026 11:28
@@ -463,8 +485,9 @@ e5532355-674e-4ba1-9717-f3e72c67390e,planes.rent,premium,3450,3450,high,low,6,na
 943a0d77-b42e-4133-bc07-2340f48d05f1,reflected.rent,available,1.5,81.98,high,medium,9,namecheap,,,09/09/2026 12:37
 72994ee5-b4e2-48be-aff9-9a12c2c8f2f3,tanzanian.rent,available,1.5,81.98,medium,low,9,namecheap,,,11/09/2026 08:09
 2a0006b1-6dd2-4b87-8151-9104b7f5543b,prolong.rent,available,1.5,81.98,high,low,7,namecheap,,,30/09/2026 19:12
+4b92f07f-8642-41a2-9737-11eabaec7fd5,ctr.rent,available,45.2,45.2,high,low,3,cloudflare,,,01/10/2026 22:35
 5d8c9b82-04b0-4a8b-894e-c196ecf7eb1e,iga.rent,available,1.5,81.98,medium,low,3,namecheap,,,29/09/2026 13:05
-d5ac4b66-695a-43b8-8df7-8f3df54a746b,deejay.rent,available,17.99,59.99,high,low,6,namesilo,,,
+d5ac4b66-695a-43b8-8df7-8f3df54a746b,deejay.rent,available,1.5,81.98,high,low,6,namecheap,,,01/10/2026 18:26
 7ea8c88c-0888-4b53-97db-1efbec844dbd,earhart.rent,available,1.5,81.98,medium,low,7,namecheap,,,18/09/2026 18:17
 567e54cf-0dd3-4d13-a4eb-620504b8b0ba,stealth.rent,available,17.99,59.99,high,low,7,namesilo,,,29/09/2026 08:08
 de2f2325-a66e-40a7-9f3d-128f77d3bc46,ral.rent,available,1.5,81.98,high,low,3,namecheap,,,30/09/2026 20:40
@@ -480,10 +503,11 @@ e3c297cf-4e56-41c1-8d4c-947d875ef58c,landry.rent,available,17.99,59.99,medium,lo
 d71cc7ae-211d-44f6-a9d4-e8de804362de,weldon.rent,available,45.2,45.2,medium,low,6,cloudflare,,,28/09/2026 16:37
 f29bda70-2953-44bf-966e-357c17d469ea,eggplant.rent,available,17.99,59.99,high,low,8,namesilo,,,21/09/2026 02:30
 87216e77-cf8b-4466-a868-354ae8c77ddb,scum.rent,available,1.5,81.98,high,low,4,namecheap,,,29/09/2026 08:02
+770d0bb7-94ed-423a-ad5f-f78543d0a0b7,contracting.rent,available,1.18,51.95,high,low,11,spaceship,,,02/10/2026 01:29
 1f76fedc-63d6-4dd6-a0d4-340b581c6213,soledad.rent,available,17.99,59.99,medium,low,7,namesilo,,,30/09/2026 18:46
 cd0298d6-968b-447f-b5b8-fe20f94577f8,delusions.rent,available,17.99,59.99,low,low,9,namesilo,,,30/09/2026 23:37
 15f40e73-639f-4112-b7aa-b9f58ea0f173,parameters.rent,available,1.18,51.95,medium,low,10,spaceship,,,30/09/2026 00:21
-7f2e31da-966a-4767-be09-55cd0f71b6af,newsgroup.rent,available,29.99,,high,low,9,name.com,,,
+7f2e31da-966a-4767-be09-55cd0f71b6af,newsgroup.rent,available,17.99,59.99,high,low,9,namesilo,,,01/10/2026 22:38
 5f77851a-ba8c-492d-aabc-16d881445e3f,frontal.rent,available,5,81.98,high,low,7,namecheap,,,18/08/2026 16:15
 3a234522-7698-4b9e-a0d5-caeae4012fb4,entangle.rent,available,5,81.98,medium,low,8,namecheap,,,24/08/2026 16:54
 b72de3de-c9c2-4f44-985f-9d6b837c3292,campana.rent,available,17.99,59.99,high,low,7,namesilo,,,23/09/2026 05:51
@@ -501,10 +525,12 @@ e6e810b2-9dc5-4523-b4e6-46cc2aa19828,antitank.rent,available,5,81.98,medium,low,
 07b84514-fd06-40f4-a1c6-34705257e1b9,ranked.rent,available,5,81.98,high,low,6,namecheap,,,20/08/2026 17:38
 fe05f478-9c71-4838-b368-6923700aadcd,gravy.rent,available,17.99,59.99,high,low,5,namesilo,,,24/09/2026 11:11
 dd74a217-86c1-4c4f-aa24-8ee6ff39db8c,adjustment.rent,available,5,81.98,high,low,10,namecheap,,,18/08/2026 05:52
+78b92d90-cd20-47c9-b546-152437f2b21a,humbert.rent,available,1.5,81.98,medium,low,7,namecheap,,,02/10/2026 00:25
 184a2027-c5f9-4843-8f5a-dec5676bb0c4,syrup.rent,available,17.99,59.99,high,low,5,namesilo,,,28/09/2026 06:44
 ef08ca27-aba3-477c-a105-7137be9aa72c,liberties.rent,available,17.99,59.99,medium,low,9,namesilo,,,18/09/2026 04:52
 4f517425-e438-400a-b031-dc56e6b91d75,fitting.rent,available,5,81.98,high,low,7,namecheap,,,18/08/2026 05:50
 20a5894e-2151-485a-a405-011809bc634e,cortlandt.rent,available,17.99,59.99,medium,low,9,namesilo,,,30/09/2026 22:25
+17139361-f845-4fa2-9e07-05c9e5c5171c,pretentious.rent,available,17.99,59.99,medium,low,11,namesilo,,,01/10/2026 22:34
 6f27d379-e0cf-45fe-a1fa-5294d04777fe,nfc.rent,available,1.18,51.95,high,low,3,spaceship,,,29/09/2026 09:52
 b78b3b73-aa4b-4b05-b276-f18d6a2ad95f,retrospect.rent,available,45.2,45.2,high,low,10,cloudflare,,,30/09/2026 18:28
 a9f8e77b-a565-4933-8c61-3586656ce434,ganja.rent,available,45.2,45.2,high,low,5,cloudflare,,,29/09/2026 06:40
@@ -520,6 +546,7 @@ af66e36e-7a26-4f71-8f90-6acfce816749,bigeye.rent,available,17.99,59.99,high,low,
 e21eb515-f739-43c1-8589-3e851be5eaf4,rufus.rent,available,1.18,51.95,medium,low,5,spaceship,,,28/09/2026 16:19
 b7786dab-f1ef-4a17-b611-51d0e47293e4,alamo.rent,premium,1035.2,1035.2,high,high,5,spaceship,,,28/09/2026 20:02
 02a84493-63a4-4c66-93f4-e889476c291e,produces.rent,available,1.5,81.98,medium,low,8,namecheap,,,17/09/2026 14:14
+4a373cc8-f86b-412c-aeab-75c810d09658,cluny.rent,available,17.99,59.99,medium,low,5,namesilo,,,02/10/2026 01:14
 3cd03df1-a3fe-4252-abc7-b54f0625a017,appetiser.rent,available,1.5,81.98,medium,low,9,namecheap,,,19/09/2026 20:48
 85d4dbca-0210-418b-93ef-43ea1706a199,umayyad.rent,available,1.18,51.95,high,low,7,spaceship,,,30/09/2026 18:14
 32cfc2ba-f719-422a-833e-0e75e8fafbc3,saint.rent,available,1.5,81.98,high,low,5,namecheap,,,25/09/2026 23:06
@@ -535,7 +562,7 @@ a1f48489-60ac-4100-92a1-664f96ef7cc4,uppity.rent,available,1.5,81.98,medium,low,
 8811aca7-17d5-4427-ae6b-f21739d69be0,tumultuous.rent,available,5,81.98,medium,low,10,namecheap,,,14/08/2026 12:25
 c1d9674b-3e9f-4121-ae65-9f5e5f3e2f7b,drilled.rent,available,5,81.98,medium,low,7,namecheap,,,14/08/2026 19:21
 9865f99d-c199-4570-a438-f528410e5fac,spate.rent,available,5,81.98,medium,low,5,namecheap,,,25/08/2026 00:44
-18e069fd-b3e9-4e6f-8d9b-a1e2026de0aa,approaches.rent,available,17.99,59.99,high,low,10,namesilo,,,28/09/2026 06:41
+18e069fd-b3e9-4e6f-8d9b-a1e2026de0aa,approaches.rent,available,17.99,59.99,high,low,10,namesilo,,,01/10/2026 16:38
 9ebd6fdc-3d3b-4440-9ce0-64e6d306de2e,almond.rent,available,1.18,51.95,high,low,6,spaceship,,,28/09/2026 20:40
 9d49c507-bf08-4874-94ef-4f709f9659c8,geoffrey.rent,available,17.99,59.99,medium,low,8,namesilo,,,25/09/2026 13:35
 e3f7ff1e-44ff-42ba-a757-1dda0f5862d0,maidenly.rent,available,5,81.98,medium,low,8,namecheap,,,24/08/2026 13:14
@@ -546,8 +573,10 @@ e3f7ff1e-44ff-42ba-a757-1dda0f5862d0,maidenly.rent,available,5,81.98,medium,low,
 f2c907e6-f9f1-483e-92ac-cfacad8fdfca,analytical.rent,available,5,81.98,high,low,10,namecheap,,,
 e0b22609-5d1c-4bed-a7a7-d43b57eb2a29,hustler.rent,available,45.2,45.2,high,low,7,cloudflare,,,30/09/2026 17:21
 068afc4e-a3e1-453c-a739-bfe9a1b2af9b,wimbledon.rent,available,1.18,51.95,medium,low,9,spaceship,,,28/09/2026 20:48
+14346944-1daf-4148-af0b-905ca6196c6a,twain.rent,available,1.18,51.95,medium,low,5,spaceship,,,02/10/2026 04:28
 fd8053f4-4825-474c-85a8-eb3d8375dd9d,isn.rent,available,10.5,53.72,high,low,3,dynadot,,,30/09/2026 02:01
 116b945a-6d48-4fe3-beb2-a98d4c69593a,rods.rent,available,45.2,45.2,medium,low,4,cloudflare,,,29/09/2026 11:22
+62de7cb2-3067-4bfd-adef-abcd6a76f500,carnage.rent,available,17.99,59.99,medium,low,7,namesilo,,,02/10/2026 04:17
 9a044f38-e19f-4483-9b1b-1aa927596226,antony.rent,available,17.99,59.99,high,low,6,namesilo,,,19/09/2026 13:33
 32c08bf0-5700-4b74-9e43-335d0ff51574,patti.rent,available,1.18,51.95,medium,low,5,spaceship,,,28/09/2026 12:07
 5060275f-33a3-4a98-bc0b-33b91d7f891c,faddy.rent,available,5,81.98,medium,low,5,namecheap,,,17/08/2026 20:35
@@ -595,13 +624,16 @@ e9389cab-f164-4ec9-a614-b567a40276b4,alexis.rent,available,17.99,59.99,high,low,
 7c056d59-a833-4c19-af49-17245a930cda,revenant.rent,available,1.5,81.98,high,low,8,namecheap,,,09/09/2026 12:04
 808cf6d1-7908-428f-adad-bc4aa8cb27bd,mirrored.rent,available,5,81.98,high,low,8,namecheap,,,25/08/2026 01:11
 6b544d97-1cbc-41a4-b2cd-3bd7f9f25f9d,predaceous.rent,available,1.5,81.98,high,medium,10,namecheap,,,09/09/2026 01:22
+5bb71d3c-b176-4292-b5a4-31098f7b3e40,pinter.rent,available,45.2,45.2,medium,low,6,cloudflare,,,02/10/2026 05:11
 0f71ea2e-2b4a-46f8-8827-cc8ff5d3529a,profession.rent,available,1.5,81.98,high,low,10,namecheap,,,30/09/2026 07:31
 216403d5-1e49-4cf8-8cf8-de5eee14db05,prodigal.rent,available,1.5,81.98,high,low,8,namecheap,,,09/09/2026 02:36
 1d023ab6-638f-4ea2-825c-6a85cf02ffef,bmi.rent,available,17.99,59.99,high,medium,3,namesilo,,,24/09/2026 06:19
 090db277-fa1d-4732-82a5-40882ac78533,astreus.rent,available,17.99,59.99,medium,low,7,namesilo,,,20/09/2026 17:34
+7398ddb0-6d4a-4cdb-b918-3b5320e5326c,kiefer.rent,available,1.18,51.95,medium,low,6,spaceship,,,01/10/2026 23:57
 3fcf2817-73d0-4613-b954-a65e3666b2f4,jean.rent,available,17.99,59.99,high,low,4,namesilo,,,28/09/2026 01:02
 8bd4bae9-6cd6-47f3-b837-4c660ce2abf0,gratitude.rent,available,1.18,51.95,high,low,9,spaceship,,,29/09/2026 21:31
 557e404d-f2eb-405d-92fa-1ca2fd0f5ede,wolfsbane.rent,available,17.99,59.99,medium,low,9,namesilo,,,17/09/2026 02:06
+da84c023-a1c4-4bf2-94c4-a154f3c89946,loreto.rent,available,1.18,51.95,medium,low,6,spaceship,,,01/10/2026 18:38
 025f752e-044c-4acf-981c-b5e26aac0694,farley.rent,available,17.99,59.99,medium,low,6,namesilo,,,30/09/2026 13:41
 8c18c54d-9df7-4394-93e7-b5ebfe9043a0,creditors.rent,available,17.99,59.99,medium,low,9,namesilo,,,20/09/2026 15:31
 d9a39271-f1b3-45f3-a526-d9c265a508b8,gamma.rent,available,10.5,53.72,high,high,5,dynadot,,,29/09/2026 06:30
@@ -609,12 +641,14 @@ a32181b9-3a2e-4633-b8ef-229f2cfff8ad,technicality.rent,available,17.99,59.99,hig
 4918dd93-202e-4e0d-9990-c612485cac2d,castrate.rent,available,5,81.98,medium,low,8,namecheap,,,16/08/2026 07:07
 780a5634-63c1-44d0-995b-918e62ebebd2,flips.rent,available,1.5,81.98,medium,low,5,namecheap,,,19/09/2026 20:33
 7a97c493-3f65-4759-a69c-6c0211cb91c4,remarkably.rent,available,1.5,81.98,medium,low,10,namecheap,,,15/09/2026 23:06
+a3eed88c-673d-46b1-8f05-2d5bd9448084,gunnison.rent,available,1.18,51.95,medium,low,8,spaceship,,,01/10/2026 12:09
 bba579e5-860b-462d-b880-0532fa456e03,haywood.rent,available,17.99,59.99,medium,low,7,namesilo,,,23/09/2026 14:07
 feb2eb95-b36f-4176-9791-80c0c127d24c,offer.rent,premium,640,640,high,low,5,namesilo,,,23/09/2026 13:36
 3afa1424-cc92-44ba-8193-f7a3e861f2bb,tical.rent,available,1.5,81.98,medium,low,5,namecheap,,,21/09/2026 18:48
 55f76b1f-e06c-4384-b2e4-df7e49cd3403,squally.rent,available,1.5,81.98,low,low,7,namecheap,,,10/09/2026 17:18
 d92c001c-4aec-4f27-925b-c7b6e0169340,marbled.rent,available,5,81.98,medium,low,7,namecheap,,,24/08/2026 15:47
 88767c8d-db8c-403a-a984-eb2526c43ae1,lynch.rent,available,1.18,51.95,medium,low,5,spaceship,,,28/09/2026 15:35
+ade91d0e-6d38-4cb4-ad86-8537aea0c9f4,cataloging.rent,available,17.99,59.99,high,low,10,namesilo,,,02/10/2026 02:32
 8e32903c-2f1b-4b81-9163-0e4063f56013,murderer.rent,available,17.99,59.99,medium,low,8,namesilo,,,25/09/2026 08:59
 e0e79582-90d9-4cf3-b383-fc58e35c23da,boiling.rent,available,1.5,81.98,high,low,7,namecheap,,,14/09/2026 00:51
 548133f3-9d83-4a38-99be-32ba6d6a40a4,scorned.rent,available,5,81.98,medium,low,7,namecheap,,,14/08/2026 04:16
@@ -653,7 +687,9 @@ b1bb2925-832c-45d3-8203-70622990b534,joachim.rent,available,17.99,59.99,high,low
 580eed6b-d69f-4e80-b849-fc5fce87a739,tubeless.rent,available,1.5,81.98,medium,low,8,namecheap,,,11/09/2026 20:58
 ae44cd12-d6d7-4a86-9a63-00aa93ea5c99,glands.rent,available,17.99,59.99,medium,low,6,namesilo,,,29/09/2026 16:29
 93a281e1-d39c-49e2-bcc6-799f35137935,secluded.rent,available,17.99,59.99,high,low,8,namesilo,,,27/09/2026 06:24
+2560e9ff-ae0b-4be1-8d42-9961b201bf10,realms.rent,available,10.5,53.72,medium,low,6,dynadot,,,01/10/2026 17:43
 5cdc6919-9272-4df5-a088-a36abca9793c,fairs.rent,available,17.99,59.99,high,low,5,namesilo,,,
+f4196879-49d3-4d5b-b531-0c7854eb9cfe,tsunami.rent,available,1.18,51.95,high,low,7,spaceship,,,01/10/2026 22:00
 12de0bff-641a-4efd-9f37-d2ea3465b205,percipient.rent,available,1.5,81.98,high,low,10,namecheap,,,08/09/2026 16:17
 1f618055-b36b-4792-aff0-ef03a08ce2bf,kassel.rent,available,10.3,52.01,high,low,6,porkbun,,,29/09/2026 22:13
 184a0609-86cc-4e8b-a68a-e1fb78b9e5df,cot.rent,available,17.99,59.99,high,low,3,namesilo,,,29/09/2026 06:09
@@ -663,7 +699,7 @@ ae44cd12-d6d7-4a86-9a63-00aa93ea5c99,glands.rent,available,17.99,59.99,medium,lo
 8221d5d8-2667-4dfb-99a9-f227159267e9,alkaline.rent,available,17.99,59.99,high,low,8,namesilo,,,22/09/2026 00:14
 1f609161-3ec0-485f-9dc0-a01eef1d05d6,marblewood.rent,available,17.99,59.99,medium,low,10,namesilo,,,19/09/2026 03:58
 2e0e3bee-64ea-429c-a562-13359706e6c3,lacklustre.rent,available,5,81.98,medium,low,10,namecheap,,,22/08/2026 18:09
-b1b94edd-7768-43e8-b4a7-4a671a214d13,zooming.rent,available,17.99,59.99,high,low,7,namesilo,,,
+b1b94edd-7768-43e8-b4a7-4a671a214d13,zooming.rent,available,45.2,45.2,high,low,7,cloudflare,,,01/10/2026 17:57
 3dc32ef9-a373-4d7c-85f9-fbb83362a88e,broad.rent,available,17.99,59.99,high,low,5,namesilo,,,19/09/2026 06:03
 0b27b2c8-a93b-44d0-8fe2-0e3cdfc86ba2,tendencies.rent,available,17.99,59.99,medium,low,10,namesilo,,,29/09/2026 17:02
 a90f9534-a239-4607-b8c6-fe2258d7aa75,undying.rent,available,29.99,94.99,medium,low,7,name.com,,,13/08/2026 20:04
@@ -672,6 +708,7 @@ a90f9534-a239-4607-b8c6-fe2258d7aa75,undying.rent,available,29.99,94.99,medium,l
 ac00c93e-4dc3-49d5-8d45-88505aad8fac,dougherty.rent,available,17.99,59.99,medium,low,9,namesilo,,,28/09/2026 23:48
 b7191613-0eac-47ce-a482-73a3f57efc35,wriggling.rent,available,1.5,81.98,medium,low,9,namecheap,,,13/09/2026 13:41
 ce07020f-ed80-4517-b9ee-671347369c12,beastly.rent,available,5,81.98,medium,low,7,namecheap,,,09/08/2026 04:54
+3f55606e-7820-48a0-a58f-2e1d04d801ed,countrymen.rent,available,1.5,81.98,medium,low,10,namecheap,,,01/10/2026 16:35
 1b8ae15b-cb17-4820-a97d-97c5a1f6e710,crucified.rent,available,17.99,59.99,medium,low,9,namesilo,,,30/09/2026 06:13
 41b9ae1e-d86e-4da2-9b17-c8aec15d7a17,connectors.rent,available,17.99,59.99,medium,low,10,namesilo,,,28/09/2026 05:16
 29b4ca7c-5529-4e92-9f70-42c94289d503,malignant.rent,available,5,81.98,medium,low,9,namecheap,,,24/08/2026 14:08
@@ -744,6 +781,7 @@ fc2ffeda-1878-4ead-bc6c-caa8e8208dd9,has.rent,available,17.99,59.99,high,low,3,n
 86611fe2-cf32-4530-82c6-ddcabca2f24b,mediation.rent,available,17.99,59.99,high,low,9,namesilo,,,30/09/2026 02:01
 a2137eaa-0e46-42fd-b3c8-cb7475d2d20b,breeds.rent,available,1.5,81.98,medium,low,6,namecheap,,,20/09/2026 01:09
 f33bc59a-5260-4fe7-a7fa-1fffc37fa5f5,droll.rent,available,5,81.98,medium,low,5,namecheap,,,14/08/2026 19:39
+0415f035-59b4-4aea-ae27-d68b9abfacc1,pelosi.rent,available,1.18,51.95,medium,low,6,spaceship,,,02/10/2026 03:41
 0c36f279-0678-4d5c-af33-4999ab926f61,progressively.rent,available,1.5,81.98,medium,low,13,namecheap,,,30/09/2026 12:19
 fc21ea08-d934-4201-8e16-fb6141c4f637,indicated.rent,available,17.99,59.99,medium,low,9,namesilo,,,28/09/2026 12:56
 4f8b3847-8a70-4159-afbb-29e7de5288f3,onionskin.rent,available,5,81.98,medium,low,9,namecheap,,,18/08/2026 08:17
@@ -761,7 +799,7 @@ e7a9925e-4884-4ed1-8b5f-cea37d7adf21,wall.rent,premium,1107,1107,high,low,4,name
 a87b62f6-f713-48dd-a7dc-d6c2e6e85a36,evidenced.rent,available,5,81.98,high,low,9,namecheap,,,17/08/2026 15:00
 af94277b-b68f-47eb-b236-6c885d11686d,permanently.rent,available,10.3,52.01,medium,low,11,porkbun,,,28/09/2026 07:19
 2646e1e1-eb49-4bb1-b069-ffe33a3d47f1,gusty.rent,available,5,81.98,medium,low,5,namecheap,,,20/08/2026 21:10
-4ea9e327-dea7-4de8-963b-02c9aa561b17,graphic.rent,available,1.5,81.98,high,low,7,namecheap,,,28/09/2026 05:58
+4ea9e327-dea7-4de8-963b-02c9aa561b17,graphic.rent,available,17.99,59.99,high,low,7,namesilo,,,01/10/2026 15:47
 b9852875-932a-4c03-bbeb-5ccb070571e6,unmapped.rent,available,5,81.98,medium,low,8,namecheap,,,12/08/2026 02:55
 a0bfd877-42ae-45ca-856d-bded68aff351,downright.rent,available,5,81.98,high,low,9,namecheap,,,14/08/2026 17:50
 4c7badc1-4531-4753-97dc-84740a96bc90,mangold.rent,available,1.5,81.98,medium,low,7,namecheap,,,23/09/2026 11:02
@@ -774,7 +812,7 @@ a0bfd877-42ae-45ca-856d-bded68aff351,downright.rent,available,5,81.98,high,low,9
 de09157c-3be7-4156-9557-45dcd96e943e,toss.rent,available,5,81.98,high,low,4,namecheap,,,18/08/2026 08:30
 7ff6a897-ed37-43a2-81bd-e9d3a8b2b983,hurt.rent,available,17.99,59.99,high,low,4,namesilo,,,25/09/2026 06:49
 a216dad0-9ee2-4035-9b9c-b05e8c189d30,workplace.rent,available,10.5,53.72,high,low,9,dynadot,,,29/09/2026 02:38
-ee0bf608-857e-4e84-b67c-1717cef9b519,data.rent,resell,,,high,medium,4,"DNC Holdings, Inc.",04/05/2024 12:22,04/05/2030 23:59,30/09/2026 09:07
+ee0bf608-857e-4e84-b67c-1717cef9b519,data.rent,resell,,,high,medium,4,"DNC Holdings, Inc.",04/05/2024 12:22,04/05/2030 23:59,01/10/2026 20:57
 254ca022-5d97-44e6-8a9e-fd0abe74f79a,aerobics.rent,available,17.99,59.99,high,low,8,namesilo,,,17/09/2026 12:56
 9e63f8e9-9d84-44ac-965b-0d134e4bd3a3,rome.rent,premium,1300,1300,high,low,4,namecheap,,,25/09/2026 03:56
 f346f6d9-c557-4e16-8066-cac995260672,doable.rent,available,1.5,81.98,high,low,6,namecheap,,,21/09/2026 15:46
@@ -782,6 +820,7 @@ f346f6d9-c557-4e16-8066-cac995260672,doable.rent,available,1.5,81.98,high,low,6,
 05e128fc-af2a-46e2-8dff-407daff199db,sinning.rent,available,1.5,81.98,high,medium,7,namecheap,,,10/09/2026 08:31
 34c4fc87-6b73-407b-adfd-9680923a9ba0,semitic.rent,available,1.5,81.98,medium,low,7,namecheap,,,10/09/2026 03:32
 356632f1-0302-48b0-91c4-ab66292b67ac,caron.rent,available,1.5,81.98,high,low,5,namecheap,,,30/09/2026 19:21
+80360982-dd08-4b1b-8dac-4b2eb3f7d1b7,indi.rent,available,1.18,51.95,medium,low,4,spaceship,,,02/10/2026 02:15
 f58b0cd7-0484-469c-832f-7e5d1f5d0e07,whitewater.rent,available,17.99,59.99,high,low,11,namesilo,,,
 b130aa40-04bc-4dc5-b0dd-d9614a94650e,hairbrush.rent,available,29.99,,high,low,10,name.com,,,
 b9c8e5b4-d860-4e33-886b-3de3d12d6d60,engine.rent,available,1.18,51.95,high,low,6,spaceship,,,30/09/2026 16:04
@@ -798,6 +837,7 @@ d1b111a9-93e7-48ee-ad38-76ae39cd4672,vocally.rent,available,17.99,59.99,medium,l
 f5aa378d-e3bc-4caa-877f-a2ffe9706a0b,middletown.rent,available,1.5,81.98,medium,low,10,namecheap,,,27/09/2026 21:20
 1e338a06-e2a3-4c87-841e-2ef850c4ba69,asinine.rent,available,5,81.98,low,low,7,namecheap,,,07/08/2026 02:35
 c6005720-2cda-41ca-8828-d2f0c42a466b,printing.rent,available,17.99,59.99,high,low,8,namesilo,,,28/09/2026 06:37
+d4d71ee3-eb77-4492-bff4-f507b7e4681a,torque.rent,resell,,,high,low,6,,,,01/10/2026 21:57
 4b27ebea-d10e-44f7-934b-cff6424870ec,lucia.rent,available,1.18,51.95,high,low,5,spaceship,,,28/09/2026 16:23
 08f0908a-cfd4-42cf-a2c7-5d91d687f591,naseby.rent,available,1.5,81.98,medium,low,6,namecheap,,,22/09/2026 15:31
 ab0029cc-7db4-4ca9-a1e9-e3d7121bdffe,films.rent,available,17.99,59.99,medium,low,5,namesilo,,,25/09/2026 17:41
@@ -813,12 +853,13 @@ bcf7eba6-8b1b-496a-b60b-2df737fa8256,piratical.rent,available,1.5,81.98,high,med
 98bd9a0d-8d6f-4db0-bdc4-940462dde13e,mansard.rent,available,5,81.98,high,low,7,namecheap,,,24/08/2026 15:30
 91484e97-9284-4a4f-b0cc-c58e109ce481,queue.rent,available,10.5,53.72,high,low,5,dynadot,,,01/10/2026 03:23
 8c3c478b-9fd7-4f94-b846-fd7576e0de70,arauca.rent,available,1.5,81.98,medium,low,6,namecheap,,,20/09/2026 00:22
+08450b3c-c506-477f-88d8-3cf93185e2be,arnett.rent,available,17.99,59.99,medium,low,6,namesilo,,,01/10/2026 23:33
 414d5487-a9c8-4893-ab0b-249693aeac9a,shote.rent,available,1.5,81.98,high,medium,5,namecheap,,,08/09/2026 19:36
 7dae423e-b136-45f9-b83b-808bdd41257e,pecs.rent,available,1.5,81.98,medium,low,4,namecheap,,,08/09/2026 12:11
 10ab2931-6fe5-4150-8572-b1ee8d34b348,marking.rent,available,45.2,45.2,high,low,7,cloudflare,,,29/09/2026 07:33
 ea3d064d-a820-49da-a4d8-fb32958a0ae6,explosions.rent,available,1.18,51.95,low,low,10,spaceship,,,28/09/2026 23:40
 4436b5d7-9584-4002-b03f-7b2703442fd9,acquitted.rent,available,5,81.98,medium,low,9,namecheap,,,
-bedca89e-2822-4993-bd49-327db79bc2e0,calendar.rent,available,17.99,59.99,high,medium,8,namesilo,,,24/09/2026 11:42
+bedca89e-2822-4993-bd49-327db79bc2e0,calendar.rent,available,10.3,52.01,high,medium,8,porkbun,,,01/10/2026 11:43
 70b7da75-72e5-4c4d-b57a-6f1fd1955638,ansi.rent,available,45.2,45.2,medium,low,4,cloudflare,,,28/09/2026 11:47
 98cbead2-f9c2-442a-8df6-22103e5198f4,multnomah.rent,available,17.99,59.99,high,low,9,namesilo,,,30/09/2026 21:47
 4654b4c0-ce3a-4714-b397-fe10dc18e74a,muddled.rent,available,1.5,81.98,medium,low,7,namecheap,,,03/09/2026 10:22
@@ -847,7 +888,7 @@ b926b003-0ad0-4261-98dd-24d9f8997a38,spiritless.rent,available,1.5,81.98,medium,
 b93fb10e-7fac-44c5-be36-f2834391c4b8,hindoo.rent,available,5,81.98,medium,low,6,namecheap,,,21/08/2026 09:33
 c3139aef-badf-47f3-a9f9-a3c669b65eda,hypotonic.rent,available,5,81.98,medium,low,9,namecheap,,,21/08/2026 17:19
 1c5ca506-d015-4dc2-990d-4d390a404a01,cased.rent,available,5,81.98,high,low,5,namecheap,,,11/08/2026 20:04
-f371d97c-2912-45f2-b5a6-9cc704854653,greetings.rent,available,17.99,59.99,high,low,9,namesilo,,,
+f371d97c-2912-45f2-b5a6-9cc704854653,greetings.rent,available,10.5,53.72,high,low,9,dynadot,,,01/10/2026 18:03
 e6063d3c-c418-4524-a2fc-2d96f295e134,scold.rent,available,17.99,59.99,high,low,5,namesilo,,,24/09/2026 16:34
 8d0f1359-46d9-49e7-a494-58b71db0f69a,parris.rent,available,45.2,45.2,medium,low,6,cloudflare,,,30/09/2026 20:35
 fc8c307e-a303-462d-8e5a-2eb57a75943f,affirmed.rent,available,1.5,81.98,high,low,8,namecheap,,,17/09/2026 14:27
@@ -889,12 +930,14 @@ a3710518-cc6f-40f1-8f88-b95db51cfece,banal.rent,available,1.5,81.98,medium,low,5
 b6d96c05-b8a2-4719-ad03-c7ab6dcd8c73,zoftig.rent,available,1.5,81.98,medium,low,6,namecheap,,,13/09/2026 14:58
 45678300-b88a-42ab-907a-61e89ea38f45,newest.rent,available,1.5,81.98,high,low,6,namecheap,,,18/09/2026 15:57
 c2784b93-5f1f-4dda-a302-73fa622479d9,flew.rent,available,17.99,59.99,high,low,4,namesilo,,,30/09/2026 22:39
+4deae68c-21dc-4ab7-be69-79d0c5c4cc00,flanks.rent,available,1.18,51.95,low,low,6,spaceship,,,01/10/2026 15:30
 cc554019-2f8c-47e6-a967-3376d27ff58f,alexei.rent,available,17.99,59.99,high,low,6,namesilo,,,29/09/2026 10:07
 e4ac8157-e48d-4c6f-b836-ac205f473230,articled.rent,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 08:28
 464d31ca-dc5d-4c72-9586-be89fd98fc2b,determine.rent,available,1.18,51.95,high,low,9,spaceship,,,30/09/2026 11:01
 6f120353-7b7a-4f98-8278-24660081c690,blacktop.rent,available,17.99,59.99,medium,low,8,namesilo,,,24/09/2026 03:24
 ca581449-5d40-455c-bd31-f0a377eeedce,henri.rent,available,17.99,59.99,high,low,5,namesilo,,,18/09/2026 10:47
 8af0d920-ce24-4039-86eb-03915c07e7a2,legitimacy.rent,available,17.99,59.99,high,low,10,namesilo,,,21/09/2026 05:07
+d30d28a0-8f68-49a8-b124-6a7e4230303e,idealism.rent,available,17.99,59.99,high,low,8,namesilo,,,02/10/2026 05:14
 3d69a60b-2916-4f35-81d4-7a10736dd4e4,warning.rent,available,1.5,81.98,high,low,7,namecheap,,,13/09/2026 08:25
 5fae61d0-c7c8-4816-b490-3c3c8ec4df62,none.rent,available,17.99,59.99,high,low,4,namesilo,,,25/09/2026 23:02
 4089cd2d-78c0-4fff-9c7e-2328d0ce9f1e,lard.rent,available,1.18,51.95,medium,low,4,spaceship,,,30/09/2026 17:51
@@ -904,7 +947,7 @@ f5e08513-7995-41ad-b54b-407fefdcff70,agastache.rent,available,17.99,59.99,medium
 05f1b95c-fdf0-4474-b08d-6faa35ebf4d9,blaming.rent,available,45.2,45.2,medium,low,7,cloudflare,,,28/09/2026 18:00
 70c468d6-2a09-4e1d-bc89-5f1486b7f56f,slaughtered.rent,available,17.99,59.99,medium,low,11,namesilo,,,29/09/2026 05:12
 5c7bc55e-8819-414b-a5c0-cd1e57bd6391,gareth.rent,available,1.18,51.95,high,low,6,spaceship,,,29/09/2026 21:28
-5501c6da-5c15-489b-81bd-d3d94ef0ea1c,measurement.rent,available,10.3,52.01,high,low,11,porkbun,,,28/09/2026 05:47
+5501c6da-5c15-489b-81bd-d3d94ef0ea1c,measurement.rent,available,17.99,59.99,high,low,11,namesilo,,,01/10/2026 14:29
 43f8b002-63b6-4d15-9d2a-c32ff4464548,comically.rent,available,1.5,81.98,medium,low,9,namecheap,,,14/09/2026 07:31
 dbcaf012-f88f-44e9-8184-b13118619fc7,biface.rent,available,5,81.98,medium,low,6,namecheap,,,09/08/2026 19:55
 a0fa58fc-3cd1-4fc8-94e8-b101583400af,justin.rent,available,17.99,59.99,high,medium,7,namesilo,,,25/09/2026 16:02
@@ -936,6 +979,7 @@ dc566f6e-faf0-436a-8878-8b2358f12e11,catclaw.rent,available,17.99,59.99,medium,l
 6b6ac3a4-3d4d-4c21-be3b-8ea4b85a980e,tna.rent,available,10.3,52.01,high,low,3,porkbun,,,29/09/2026 03:35
 22896d24-8cc0-4e93-b694-1bb4103807d7,stripes.rent,available,17.99,59.99,high,low,7,namesilo,,,24/09/2026 14:23
 5c7e57ef-5e51-4882-950b-5d7b44a307f2,swastika.rent,available,17.99,59.99,medium,low,8,namesilo,,,29/09/2026 21:59
+7d73efce-8757-4826-8ef0-cbb8dc66ecaa,antibodies.rent,available,17.99,59.99,medium,low,10,namesilo,,,01/10/2026 16:25
 24159900-f467-46b1-b606-c1b6f3e46ede,mistreated.rent,available,5,81.98,medium,low,10,namecheap,,,21/08/2026 19:35
 dca3a834-bba9-4b5f-a3e5-5dfc9b49bfdf,otiose.rent,available,5,81.98,medium,low,6,namecheap,,,17/08/2026 20:56
 c015dc2f-3959-4d20-8dda-105d0128c416,pickings.rent,available,1.5,81.98,medium,low,8,namecheap,,,11/09/2026 07:21
@@ -949,53 +993,9 @@ c015dc2f-3959-4d20-8dda-105d0128c416,pickings.rent,available,1.5,81.98,medium,lo
 9a375a4a-e0d2-4753-84b9-24e235d97ec2,russo.rent,available,1.5,81.98,high,low,5,namecheap,,,27/09/2026 08:03
 8e4d3c48-9547-42ca-a92b-84383533a03a,andalusian.rent,available,5,81.98,high,low,10,namecheap,,,
 6e759ce6-fea9-4484-92b3-406a7d8b87d9,antipathy.rent,available,1.5,81.98,medium,low,9,namecheap,,,19/09/2026 14:53
+4af6949f-01ab-4ed5-9198-95d3ca67b8da,bonanza.rent,available,1.18,51.95,high,low,7,spaceship,,,02/10/2026 04:07
 4afea770-e47e-41e7-959a-2cc30fb86a4a,thumb.rent,available,17.99,59.99,high,low,5,namesilo,,,25/09/2026 22:48
 8f13a93a-44cf-4eef-87b7-15ff049706d6,paralyzed.rent,available,1.5,81.98,medium,low,9,namecheap,,,08/09/2026 01:29
 3861fab4-e418-4c4e-a1cf-d3fe5a2108e1,lakshmi.rent,available,10.5,53.72,medium,low,7,dynadot,,,30/09/2026 10:22
 e9203ce2-6119-4e44-b53e-1714f1feae78,interface.rent,available,1.18,51.95,high,low,9,spaceship,,,28/09/2026 19:29
 09046249-4f79-4cfd-9b03-e2dea5fdfadf,roadman.rent,available,1.5,81.98,medium,low,7,namecheap,,,21/09/2026 18:08
-1db97dbb-e359-4e0a-9b0a-d163dde7b259,sparkly.rent,available,5,81.98,high,low,7,namecheap,,,
-63267869-a608-439c-8a3a-1ae4bf6e1d8a,sampson.rent,available,17.99,59.99,medium,low,7,namesilo,,,27/09/2026 01:42
-5b006ca6-ad11-47d3-a306-c88abe46126a,awheel.rent,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 01:05
-0b163fca-3d25-4f71-8f96-786b3d7dd83f,michel.rent,available,17.99,59.99,high,low,6,namesilo,,,25/09/2026 12:46
-b92d5840-42d0-44d6-8f5b-148add796533,joint.rent,available,29.99,94.99,high,low,5,name.com,,,22/09/2026 08:50
-66c4f8f2-b652-4af4-af2f-2991abd0cec7,considered.rent,available,1.5,81.98,high,low,10,namecheap,,,23/09/2026 20:51
-25c777e6-fa35-436b-9701-e8ea191cdf1f,coaching.rent,available,17.99,59.99,high,low,8,namesilo,,,28/09/2026 10:49
-1abaf143-07b3-44aa-8da0-068a22c8467b,longroot.rent,available,17.99,59.99,medium,low,8,namesilo,,,20/09/2026 03:40
-d6750d3d-81ad-47bc-934e-5c773662397b,subport.rent,available,1.18,51.95,medium,low,7,spaceship,,,28/09/2026 16:14
-ae2a6be4-67a7-4185-a394-fb0438ecc431,supplies.rent,premium,650,650,medium,low,8,namecheap,,,
-5120f2bd-47fc-4d8d-8bb0-4bd4ba3f65f9,looked.rent,available,17.99,59.99,high,low,6,namesilo,,,18/09/2026 11:20
-25c361fd-00f0-44d4-8255-110eddf8d708,reconstructed.rent,available,1.5,81.98,medium,low,13,namecheap,,,30/09/2026 22:29
-0a1333d8-af83-4a73-a3f6-41af653e2fe4,briggs.rent,premium,1107,1107,high,low,6,namesilo,,,25/09/2026 15:50
-6def6f0e-7469-4bf9-adb2-bbe7c32db043,blanco.rent,available,45.2,45.2,high,low,6,cloudflare,,,01/10/2026 04:49
-fe576916-74cb-4a9c-9941-7885a64ead05,untired.rent,available,1.5,81.98,low,low,7,namecheap,,,12/09/2026 21:29
-d1536a8d-2e1d-4289-a166-667f7dd239a9,prosecuted.rent,available,17.99,59.99,low,low,10,namesilo,,,29/09/2026 17:43
-1c747025-cce8-4304-a7ff-ad6c6590d00c,devoutly.rent,available,1.5,81.98,medium,low,8,namecheap,,,14/09/2026 12:30
-20e76fda-d488-4d0f-b07e-6ecd49b4818f,cometary.rent,available,5,81.98,medium,low,8,namecheap,,,12/08/2026 18:56
-d0af2285-b373-414b-be06-a318b3f5246d,dressed.rent,available,29.99,94.99,high,low,7,name.com,,,22/09/2026 07:16
-bffb14c7-ddf2-4de4-92bf-ef2674d895c6,maker.rent,available,17.99,59.99,high,medium,5,namesilo,,,29/09/2026 01:54
-b78961dd-c2c9-4789-aafe-1e45a5d8f4af,modigliani.rent,available,1.5,81.98,high,low,10,namecheap,,,18/09/2026 17:54
-aafaf80e-6c00-4252-8b72-cf6e06dc8ccd,brilliantly.rent,available,1.18,51.95,high,low,11,spaceship,,,29/09/2026 21:24
-f10cfaeb-a0dc-486a-b367-6618152b1e31,immortality.rent,available,45.2,45.2,medium,low,11,cloudflare,,,29/09/2026 05:02
-565b29e8-7ac0-4a87-99ea-da42078c28d0,untalented.rent,available,1.5,81.98,medium,low,10,namecheap,,,11/09/2026 07:26
-832437eb-2ba3-489e-9b15-c989be0a19b1,expired.rent,available,5,81.98,medium,low,7,namecheap,,,17/08/2026 18:21
-0ea1c403-441b-49b7-8d1d-1e4e0a98c701,nomothetic.rent,available,1.5,81.98,medium,low,10,namecheap,,,03/09/2026 18:22
-2edff66b-7fd8-4af8-8692-3d9b4e25275f,crinoid.rent,available,5,81.98,medium,low,7,namecheap,,,13/08/2026 06:58
-65a6e0be-8830-4906-a694-c35b6a1335a6,prying.rent,available,1.5,81.98,medium,low,6,namecheap,,,03/09/2026 21:52
-e6eef649-db42-4c3b-8eec-0b3d6231a33d,behaved.rent,available,45.2,45.2,medium,low,7,cloudflare,,,30/09/2026 05:57
-8634ab6b-fe37-4a8f-bb3c-7ef78b746dad,bonham.rent,available,17.99,59.99,medium,low,6,namesilo,,,30/09/2026 12:37
-1847e288-2c85-45b7-8584-112c554e63ea,choler.rent,available,17.99,59.99,medium,low,6,namesilo,,,19/09/2026 06:04
-966e3c43-7754-459b-bf0e-e2aabac375ea,preston.rent,available,29.99,94.99,high,low,7,name.com,,,25/09/2026 20:01
-7dd19cad-8e58-4710-966b-e2ab11181569,kicking.rent,available,1.5,81.98,high,low,7,namecheap,,,30/09/2026 01:20
-2eadaf60-119f-4b61-9879-085e01092c43,dealership.rent,available,1.18,51.95,high,low,10,spaceship,,,29/09/2026 06:18
-bfae467d-6937-46ef-89e7-af960c534003,monaghan.rent,available,1.18,51.95,medium,low,8,spaceship,,,29/09/2026 17:52
-288309c0-7c67-4a7a-b1e2-fb0efbe381bb,forfeiture.rent,available,5,81.98,high,low,10,namecheap,,,18/08/2026 11:45
-f8e5361c-78e3-4023-b231-f1a8d455382f,playback.rent,available,1.18,51.95,high,low,8,spaceship,,,29/09/2026 13:42
-eb2091ab-1777-406e-b819-0cd0c584c52c,alembic.rent,available,17.99,59.99,medium,low,7,namesilo,,,18/09/2026 05:10
-cfcf186c-d741-4767-94ec-75fd3045d555,thirsty.rent,available,17.99,59.99,high,low,7,namesilo,,,28/09/2026 09:14
-07b117c5-db65-46b4-9c6a-b22a9d3b7aa8,sectorial.rent,available,1.5,81.98,medium,low,9,namecheap,,,10/09/2026 01:22
-135ff7e4-ab85-4181-a39d-955ef2c5f621,punctually.rent,available,1.5,81.98,medium,low,10,namecheap,,,14/09/2026 14:45
-de9cd8e4-0633-40fd-b6d2-50514dc6320e,ult.rent,available,1.5,81.98,high,low,3,namecheap,,,11/09/2026 22:48
-79628704-efd3-4559-80bc-0fa33d89cae0,sweltering.rent,available,1.5,81.98,medium,low,10,namecheap,,,11/09/2026 05:40
-8204ce9a-0bdc-4170-97dc-94da483bf6d5,symbols.rent,available,10.5,53.72,medium,low,7,dynadot,,,29/09/2026 04:46
-39f63782-e796-458e-9510-71bd14b3eb80,snore.rent,available,1.18,51.95,high,low,5,spaceship,,,30/09/2026 11:22
